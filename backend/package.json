@@ -23,7 +23,7 @@
     "express-session": "^1.17.3",
     "jest-mock-extended": "^3.0.4",
     "mock-fs": "^5.2.0",
-    "mysql2": "^3.2.3",
+    "mysql2": "^3.9.4",
     "openai": "^3.2.1",
     "passport": "^0.6.0",
     "passport-local": "^1.0.0",

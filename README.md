@@ -8,7 +8,7 @@ Introducting LLAMAFY!
 
 \*Even he did this whole wearing the same outfit everyday thing so that it would be one less decision for him to make. So realistically he should be the one making this not us just saying...
 
-### What we are?
+### Who are we?
 
 Are we human? Dancer? No! We're LLAMAFY! Powered by AI and run by a team of indecisive lavender llamas (that moonlight as insomniacs), we decided to make our lives easier and your lives cooler by simplifying one of the hardest parts of the day; getting dressed!
 
